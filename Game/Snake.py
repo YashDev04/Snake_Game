@@ -7,7 +7,7 @@ HEIGHT = 800
 CELL_SIZE = 30
 CELL_NUM = 25
 WINDOW = pygame.display.set_mode((CELL_SIZE * CELL_NUM, CELL_SIZE * CELL_NUM))  # surface
-pygame.display.set_caption("Snake Reborn")
+pygame.display.set_caption("Snake is back")
 WHITE = (235, 235, 245)
 FPS = 120
 
